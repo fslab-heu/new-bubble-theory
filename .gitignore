@@ -1,0 +1,8 @@
+Debug
+Release
+*.suo
+*.db
+*.ipch
+*.fig
+*.dat
+*.user
