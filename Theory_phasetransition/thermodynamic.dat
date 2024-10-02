@@ -1,0 +1,22 @@
+461.52             //gas_contant_vapour
+287.0               //gas_contant_air
+1000               //heat_transfer_coefficient
+293                //ambient_temperature
+0.02897         //Moal_mass_air
+0.018             //Moal_mass_vapour
+6.02e23         //Avogadro_number
+10.0               //modification_coefficient_innerboundary_layer
+7.0               //modification_coefficient_outerboundary_layer
+0.2               //modification_coefficient_heat_transfer
+0.1402         //Intermolecular_attraction_of_air
+0.5536        //Intermolecular_attraction_of_vapor
+3.753e-5    //Volume_occupied_by_air_molecules
+3.049e-5   //Volume_occupied_by_vapor_molecules
+5.67e-8     //Stefan_Boltzmann_constant
+1089.0      //Vapor_specific_heat_capacity_at_constant_volume
+717.0       //Specific_heat_capacity_of_air_at_constant_volume
+0.02       //Thermal_conductivity_of_vapor
+0.5       //Specific_heat_capacity_of_air_at_constant_volume
+1.38e-23       //Boltzmann_constant
+1.43e-7       //Specific_heat_capacity_of_air_at_constant_volume
+

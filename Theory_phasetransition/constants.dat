@@ -1,0 +1,12 @@
+1.250000              //gamma
+1500.000000       //sound_speed
+0.075000              //visicosity
+0.001                    //surface_tension
+2338.000000           //satured_vapor
+9.800000                //gravity_acc
+1000.000000            //density_liquid
+0.800000                //drag_coe
+0.500000                   //added_mass_coe
+100000.000000         //Pref_in_free_surface
+0.000000, 0.000000, 0.000000    //Ux_Uy_Uz
+
