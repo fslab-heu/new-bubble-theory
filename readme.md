@@ -30,7 +30,7 @@ The code is written in C/C++, so a C/C++ compiler is required. We recommend inst
 #### 3. References
 Users can refer to the following paper for detailed theory and equations:
 
-[A-Man Zhang,  Shi-Min Li,  Run-Ze Xu, Shao-Cong Pei, Shuai Li, and  Yun-Long Liu, A theoretical model for compressible bubble dynamics considering phase transition and migration. Journal of Fluid Mechanics. 2024. 999: A58](https://doi.org/10.1017/jfm.2024.954)
+[A-Man Zhang,  Shi-Min Li,  Run-Ze Xu, Shao-Cong Pei, Shuai Li, and  Yun-Long Liu, A theoretical model for compressible bubble dynamics considering phase transition and migration. Journal of Fluid Mechanics. 2024. 999, A58](https://doi.org/10.1017/jfm.2024.954)
 
 ###### If you have any questions regarding the program, please do not hesitate to get in touch at lishimien@126.com.
 
