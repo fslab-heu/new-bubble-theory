@@ -6,8 +6,8 @@
 0.018             //Moal_mass_vapour
 6.02e23         //Avogadro_number
 10.0               //modification_coefficient_innerboundary_layer
-7.0               //modification_coefficient_outerboundary_layer
-0.2               //modification_coefficient_heat_transfer
+1.0               //modification_coefficient_outerboundary_layer
+1.0               //modification_coefficient_heat_transfer
 0.1402         //Intermolecular_attraction_of_air
 0.5536        //Intermolecular_attraction_of_vapor
 3.753e-5    //Volume_occupied_by_air_molecules
